@@ -263,6 +263,10 @@ body,
     margin-left: 10px;
     margin-right: 10px;
   }
+  .blog-img {
+    height: 300px;
+    width: 400px;
+  }
 }
 @media only screen and (max-width: 600px) {
   html,
@@ -320,5 +324,10 @@ body,
   }
   .newsletter-section {
     height: 500px;
+  }
+  
+  .blog-img {
+    height: 300px;
+    width:350px;
   }
 }
